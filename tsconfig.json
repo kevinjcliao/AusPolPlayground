@@ -1,0 +1,7 @@
+{
+    "files": [
+        "./typings/index.d.ts",
+        "./app.ts",
+        "./keys.ts"
+    ]
+}
